@@ -58,3 +58,9 @@ This is my attempt at putting that training syllabus together.
 17. Natural Language Processing with Python	nlp	450,	11
 
 18. Essential Mathematics for Science and Technology	math/stats	700,	19
+
+&nbsp;
+
+*Total page count:* **5,500** - *Chapter count:* **232**
+
+**Goal is to read *at least* two chapters per day**
