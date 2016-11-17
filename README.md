@@ -10,3 +10,51 @@ I already had plans on taking some courses from Udacity (particularly the [Data 
 In the spring of 2016, I attended a part-time data science course at General Assembly. I literally learned more in ten weeks from that course than I did in *general* from 18 months of being enrolled at a community college. My capstone from that course [can be found here](https://github.com/analyticascent/stylext). For over a year now I have anticipated taking the three-month immersive at Galvanize as a final stepping stone to full time work. But any endeavor this intense warrants some early training beforehand.
 
 This is my attempt at putting that training syllabus together.
+
+---
+
+&nbsp;
+
+## 0. Online Prep
+---
+
+&nbsp;
+
+## 1. Reading List
+---
+
+1. **Data Science for Dummies** -	*(general)* - **365**,	23
+
+2. Data Science from Scratch - (python)	305,	25
+
+3. Statistics Done Wrong - math/stats	130,	16
+
+4. Getting Started with SQL + NoSQL -	sql	260,	17
+
+5. Doing Data Science -	general	405,	16
+
+6. Scikit-Learn Cookbook - scipy/numpy	195,	5
+
+7. Practical Statistics for Data Science	math/stats	225,	5
+
+8. Mastering Machine Learning w/Scikit-Learn	scipy/numpy	215,	10
+
+9. Mastering Data Mining with Python	python	240,	9
+
+10. Introducing Data Science	general	285,	9
+
+11. Probability - An Introduction	math/stats	250,	12
+
+12. Practical Data Analysis	general	325,	15
+
+13. Instant Flask Web Development	web dev	65,	2
+
+14. Practical Data Science Cookbook	general	350,	11
+
+15. Python Data Analysis Cookbook	python	425,	12
+
+16. Web Scraping with Python (1-6 & Pakt)	scrape	300,	15
+
+17. Natural Language Processing with Python	nlp	450,	11
+
+18. Essential Mathematics for Science and Technology	math/stats	700,	19
