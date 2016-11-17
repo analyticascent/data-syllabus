@@ -16,12 +16,10 @@ This is my attempt at putting that training syllabus together.
 &nbsp;
 
 ## 0. Online Prep
----
 
 &nbsp;
 
 ## 1. Reading List
----
 
 1. **Data Science for Dummies** -	*(general)* - **365**,	23
 
