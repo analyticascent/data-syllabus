@@ -29,6 +29,10 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 ## 1. Reading List
 
+List first is the title, followed by subject matter, page count, and chapter count. Chapter count is significant because I intend to read at least two chapters from this list per day, if not more. In a matter of months, I should be familiar with the weekly content in [Galvanize's 12-week Immersive](http://www.galvanize.com/courses/data-science/) course.
+
+&nbsp;
+
 1. **Data Science for Dummies** -	*(general)* - **365**,	23
 
 2. **Data Science from Scratch** - *(python)* -	**305**,	25
@@ -47,26 +51,24 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 9. **Mastering Data Mining with Python** - *(python)* -	**240**,	9
 
-10. Introducing Data Science	general	285,	9
+10. **Introducing Data Science** - *(general)* - **285**,	9
 
-11. Probability - An Introduction	math/stats	250,	12
+11. **Probability, An Introduction** - *(math/stats)* - **250**,	12
 
-12. Practical Data Analysis	general	325,	15
+12. **Practical Data Analysis** -	*(general)* -	**325**,	15
 
-13. Instant Flask Web Development	web dev	65,	2
+13. **Instant Flask Web Development** -	*(web dev)* -	**65**,	2
 
-14. Practical Data Science Cookbook	general	350,	11
+14. **Practical Data Science Cookbook**	- *(general)* -	**350**,	11
 
-15. Python Data Analysis Cookbook	python	425,	12
+15. **Python Data Analysis Cookbook** -	*(python)* - **425**,	12
 
-16. Web Scraping with Python (1-6 & Pakt)	scrape	300,	15
+16. **Web Scraping with Python (1-6 & Pakt)** -	*(scrape)* - **300**,	15
 
-17. Natural Language Processing with Python	nlp	450,	11
+17. **Natural Language Processing with Python** -	*(nlp)* -	**450**,	11
 
-18. Essential Mathematics for Science and Technology	math/stats	700,	19
+18. **Essential Mathematics for Science and Technology** - *(math/stats)* - **700**,	19
 
 &nbsp;
 
-*Total page count:* **5,500** - *Chapter count:* **232**
-
-**Goal is to read *at least* two chapters per day**
+*Total page count:* **5,500** - *Chapter count:* **232**. ***Goal is to read at least two chapters per day for 4 months.***
