@@ -17,6 +17,14 @@ This is my attempt at putting that training syllabus together.
 
 ## 0. Online Prep
 
+These are sites with courses I have either already used or plan to use. I chose Codecademy and Datacamp because they take a more modular approach to how you learn a given topic - that is, you can stick to something specific rather than having to take an entire course track for the tidbits you actually need.
+
+#### A. Codecademy Courses:
+
+&nbsp;
+
+#### B. Datacamp Courses:
+
 &nbsp;
 
 ## 1. Reading List
