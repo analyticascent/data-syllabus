@@ -31,21 +31,21 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 1. **Data Science for Dummies** -	*(general)* - **365**,	23
 
-2. Data Science from Scratch - (python)	305,	25
+2. **Data Science from Scratch** - *(python)* -	**305**,	25
 
-3. Statistics Done Wrong - math/stats	130,	16
+3. **Statistics Done Wrong** - *(math/stats)* -	**130**,	16
 
-4. Getting Started with SQL + NoSQL -	sql	260,	17
+4. **Getting Started with SQL + NoSQL** -	*(sql)* -	**260**,	17
 
-5. Doing Data Science -	general	405,	16
+5. **Doing Data Science** -	*(general)* -	**405**,	16
 
-6. Scikit-Learn Cookbook - scipy/numpy	195,	5
+6. **Scikit-Learn Cookbook** - *(scipy/numpy)* - **195**,	5
 
-7. Practical Statistics for Data Science	math/stats	225,	5
+7. **Practical Statistics for Data Science** - *(math/stats)* -	**225**,	5
 
-8. Mastering Machine Learning w/Scikit-Learn	scipy/numpy	215,	10
+8. **Mastering Machine Learning w/Scikit-Learn** - *(scipy/numpy)* -	**215**,	10
 
-9. Mastering Data Mining with Python	python	240,	9
+9. **Mastering Data Mining with Python** - *(python)* -	**240**,	9
 
 10. Introducing Data Science	general	285,	9
 
