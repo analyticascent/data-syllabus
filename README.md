@@ -90,3 +90,7 @@ List first is the title, followed by subject matter, page count, and chapter cou
 &nbsp;
 
 *Total page count:* **~6,000** - *Chapter count:* **~250**. ***Goal is to read at least two chapters per day for 4 months.***
+
+&nbsp;
+
+## 2. Benchmarks Before Enrollment
