@@ -71,7 +71,7 @@ List first is the title, followed by subject matter, page count, and chapter cou
 
 18. **Python for Data Science for Dummies** - *(scipy/numpy)* - **420**, 22
 
-19. **Soft Skills** - *(miscellaneous)* - **490**, 7
+19. **Soft Skills** - *(miscellaneous)* - **490**, 7 (sections)
 
 20. **Essential Mathematics for Science and Technology** - *(math/stats)* - **700**,	19
 
