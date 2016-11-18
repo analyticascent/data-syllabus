@@ -33,6 +33,8 @@ List first is the title, followed by subject matter, page count, and chapter cou
 
 &nbsp;
 
+0. **Learn Python the Hard Way** - *(python)* - **280**, 52 
+
 1. **Data Science for Dummies** -	*(general)* - **365**,	23
 
 2. **Data Science from Scratch** - *(python)* -	**305**,	25
@@ -45,7 +47,7 @@ List first is the title, followed by subject matter, page count, and chapter cou
 
 6. **Scikit-Learn Cookbook** - *(scipy/numpy)* - **195**,	5
 
-7. **Practical Statistics for Data Science** - *(math/stats)* -	**225**,	5
+7. **Probability, An Introduction** - *(math/stats)* - **250**,	12
 
 8. **Mastering Machine Learning w/Scikit-Learn** - *(scipy/numpy)* -	**215**,	10
 
@@ -53,22 +55,26 @@ List first is the title, followed by subject matter, page count, and chapter cou
 
 10. **Introducing Data Science** - *(general)* - **285**,	9
 
-11. **Probability, An Introduction** - *(math/stats)* - **250**,	12
+11. **Practical Data Analysis** -	*(general)* -	**325**,	15
 
-12. **Practical Data Analysis** -	*(general)* -	**325**,	15
+12. **Instant Flask Web Development** -	*(web dev)* -	**65**,	2
 
-13. **Instant Flask Web Development** -	*(web dev)* -	**65**,	2
+13. **Practical Data Science Cookbook**	- *(general)* -	**350**,	11
 
-14. **Practical Data Science Cookbook**	- *(general)* -	**350**,	11
+14. **Python Data Analysis Cookbook** -	*(python)* - **425**,	12
 
-15. **Python Data Analysis Cookbook** -	*(python)* - **425**,	12
+15. **Web Scraping with Python (1-6 & Pakt)** -	*(scrape)* - **300**,	15
 
-16. **Web Scraping with Python (1-6 & Pakt)** -	*(scrape)* - **300**,	15
+16. **Practical Statistics for Data Science** - *(math/stats)* -	**225**,	5
 
 17. **Natural Language Processing with Python** -	*(nlp)* -	**450**,	11
 
-18. **Essential Mathematics for Science and Technology** - *(math/stats)* - **700**,	19
+18. **Python for Data Science for Dummies** - *(scipy/numpy)* - **420**, 22
+
+19. **Soft Skills** - *(miscellaneous)* - **490**, 7
+
+20. **Essential Mathematics for Science and Technology** - *(math/stats)* - **700**,	19
 
 &nbsp;
 
-*Total page count:* **5,500** - *Chapter count:* **232**. ***Goal is to read at least two chapters per day for 4 months.***
+*Total page count:* **~6,000** - *Chapter count:* **~250**. ***Goal is to read at least two chapters per day for 4 months.***
