@@ -27,6 +27,18 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 &nbsp;
 
+#### C. Dataschool:
+
+&nbsp;
+
+#### D. General Assembly:
+
+&nbsp;
+
+#### E. Data Science Primer:
+
+&nbsp;
+
 ## 1. Reading List
 
 List first is the title, followed by subject matter, page count, and chapter count. Chapter count is significant because I intend to read at least two chapters from this list per day, if not more. In a matter of months, I should be familiar with the weekly content in [Galvanize's 12-week Immersive](http://www.galvanize.com/courses/data-science/) course.
