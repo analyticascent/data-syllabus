@@ -35,8 +35,6 @@ Somehow when doing a web search for information related to Ipython or Pandas or 
 
 3. [Basic Data Types](http://hamelg.blogspot.com/2015/10/python-for-data-analysis-part-3-basic.html)
 
-&nbsp;
-
 *Section 2: Data Structures*
 
 4. [Variables](http://hamelg.blogspot.com/2015/10/python-for-data-analysis-part-4.html)
@@ -53,8 +51,6 @@ Somehow when doing a web search for information related to Ipython or Pandas or 
 
 10. [Reading and Writing Data](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-10.html)
 
-&nbsp;
-
 *Section 3: Programming Constructs*
 
 11. [Control Flow](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-11.html)
@@ -62,8 +58,6 @@ Somehow when doing a web search for information related to Ipython or Pandas or 
 12. [Defining Functions](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-12.html)
 
 13. [List and Dictionary Comprehensions](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-13-list.html)
-
-&nbsp;
 
 *Section 4: Data Exploration and Cleaning*
 
@@ -81,8 +75,6 @@ Somehow when doing a web search for information related to Ipython or Pandas or 
 
 20. [Plotting with Pandas](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-19.html)
 
-&nbsp;
-
 *Section 5: Basic Statistics*
 
 21. [Descriptive Statistics](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-21.html)
@@ -91,8 +83,6 @@ Somehow when doing a web search for information related to Ipython or Pandas or 
 
 23. [Point Estimates and Confidence Intervals](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-23-point.html)
 
-&nbsp;
-
 Section 6: Inferential Statistics
 
 24. [Hypothesis Testing and the T-Test](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-24.html)
@@ -100,8 +90,6 @@ Section 6: Inferential Statistics
 25. [Chi-Squared Tests](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-25-chi.html)
 
 26. [Analysis of Variance (ANOVA)](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-16_23.html)
-
-&nbsp;
 
 Section 7: Predictive Modeling
 
