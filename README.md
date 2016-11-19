@@ -43,6 +43,24 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 #### B. Datacamp Courses:
 
+1. [Introduction to R](https://campus.datacamp.com/courses/free-introduction-to-r)
+
+2. [Intro to Statistics with R](https://www.datacamp.com/courses/intro-to-statistics-with-r-introduction)
+
+3. [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+
+4. [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+
+5. [Importing Data in Python Part 1](https://www.datacamp.com/courses/importing-data-in-python-part-1)
+
+6. [Importing Data in Python Part 2](https://www.datacamp.com/courses/importing-data-in-python-part-2)
+
+7. [Introduction to Relational Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
+
+8. [Interactice Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
+
+9. [Statistical Thinking in Python Part 1](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
+
 &nbsp;
 
 #### C. Dataschool:
