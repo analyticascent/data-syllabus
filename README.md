@@ -63,8 +63,6 @@ Most of these take *four hours or less* to do according to the descriptions. I m
 
 8. [Learn Javascript](https://www.codecademy.com/learn/learn-javascript)
 
-&nbsp;
-
 Learn the Command Line and Learn Git can be done in a day if I really wanted to. I might just repeat those from time to time. All the others on the list might take days to do, but Codecademy no longer lists hourly estimates. 
 
 &nbsp;
