@@ -21,7 +21,73 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 &nbsp;
 
-#### A. General Assembly:
+#### A. Life is Study:
+
+Somehow when doing a web search for information related to Ipython or Pandas or something along those lines, I came across [this blog series](http://hamelg.blogspot.com/2015/12/python-for-data-analysis-index.html). As anyone can tell just from the index alone, that series has a very good overview of some fundamental concepts. Not only that, but some of the specific techniques differ enough from the General Assembly Ipython lessons to make it work doing them all. 
+
+1. [Python Setup](http://hamelg.blogspot.com/2015/10/python-for-data-analysis-part-1-setup.html)
+
+2. [Python Arithmetic](http://hamelg.blogspot.com/2015/10/python-for-data-analysis-part-2-python.html)
+
+3. [Basic Data Types](http://hamelg.blogspot.com/2015/10/python-for-data-analysis-part-3-basic.html)
+
+4. [Variables](http://hamelg.blogspot.com/2015/10/python-for-data-analysis-part-4.html)
+
+5. [Lists](http://hamelg.blogspot.com/2015/10/python-for-data-analysis-5-lists.html)
+
+6. [Tuples and Strings](http://hamelg.blogspot.com/2015/10/python-for-data-analysis-6-tuples-and.html)
+
+7. [Dictionaries and Sets](http://hamelg.blogspot.com/2015/10/python-for-data-analysis-part-7.html)
+
+8. [Numpy Arrays](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-8-numpy.html)
+
+9. [Pandas Dataframes](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-9-pandas.html)
+
+10. [Reading and Writing Data](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-10.html)
+
+11. [Control Flow](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-11.html)
+
+12. [Defining Functions](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-12.html)
+
+13. [List and Dictionary Comprehensions](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-13-list.html)
+
+14. [Initial Data Exploration and Preparation](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-14.html)
+
+15. [Working with Text Data](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-15.html)
+
+16. [Preparing Numeric Data](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-16.html)
+
+17. [Dealing With Dates](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-17.html)
+
+18. [Merging Data](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-18.html)
+
+19. [Frequency Tables](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-19_17.html)
+
+20. [Plotting with Pandas](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-19.html)
+
+21. [Descriptive Statistics](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-21.html)
+
+22. [Probability Distributions](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-22.html)
+
+23. [Point Estimates and Confidence Intervals](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-23-point.html)
+
+24. [Hypothesis Testing and the T-Test](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-24.html)
+
+25. [Chi-Squared Tests](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-25-chi.html)
+
+26. [Analysis of Variance (ANOVA)](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-16_23.html)
+
+27. [Linear Regression](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-27-linear.html)
+
+28. [Logistic Regression](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-28.html)
+
+29. [Decision Trees](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-29.html)
+
+30. [Random Forests](http://hamelg.blogspot.com/2015/12/python-for-data-analysis-part-30-random.html)
+
+&nbsp;
+
+#### B. General Assembly:
 
 I should say early on that this is a course I already took. I just want to review the lessons again and fork each of the Ipython notebooks into different use cases.
 
@@ -65,7 +131,7 @@ Each lesson has both slides, and an Ipython notebook (or two) to go over. One of
 
 &nbsp;
 
-#### B. Datacamp Courses:
+#### C. Datacamp Courses:
 
 1. [Introduction to R](https://campus.datacamp.com/courses/free-introduction-to-r)
 
@@ -89,7 +155,7 @@ Most of these take *four hours or less* to do according to the descriptions. I m
 
 &nbsp;
 
-#### C. Codecademy Courses:
+#### D. Codecademy Courses:
 
 1. [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 
@@ -108,10 +174,6 @@ Most of these take *four hours or less* to do according to the descriptions. I m
 8. [Learn Javascript](https://www.codecademy.com/learn/learn-javascript)
 
 Learn the Command Line and Learn Git can be done in a day if I really wanted to. I might just repeat those from time to time. All the others on the list might take days to do, but Codecademy no longer lists hourly estimates. 
-
-&nbsp;
-
-#### D. Dataschool:
 
 &nbsp;
 
