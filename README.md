@@ -21,7 +21,37 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 &nbsp;
 
-#### A. Datacamp Courses:
+#### A. General Assembly:
+
+I should say early on that this is a course I already took. I just want to review the lessons again and fork each of the Ipython notebooks into different use cases.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+&nbsp;
+
+#### B. Datacamp Courses:
 
 1. [Introduction to R](https://campus.datacamp.com/courses/free-introduction-to-r)
 
@@ -45,7 +75,7 @@ Most of these take *four hours or less* to do according to the descriptions. I m
 
 &nbsp;
 
-#### B. Codecademy Courses:
+#### C. Codecademy Courses:
 
 1. [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 
@@ -67,11 +97,7 @@ Learn the Command Line and Learn Git can be done in a day if I really wanted to.
 
 &nbsp;
 
-#### C. Dataschool:
-
-&nbsp;
-
-#### D. General Assembly:
+#### D. Dataschool:
 
 &nbsp;
 
