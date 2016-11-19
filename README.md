@@ -25,11 +25,19 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 Somehow when doing a web search for information related to Ipython or Pandas or something along those lines, I came across [this blog series](http://hamelg.blogspot.com/2015/12/python-for-data-analysis-index.html). As anyone can tell just from the index alone, that series has a very good overview of some fundamental concepts. Not only that, but some of the specific techniques differ enough from the General Assembly Ipython lessons to make it work doing them all. 
 
+&nbsp;
+
+*Section 1: Getting Started*
+
 1. [Python Setup](http://hamelg.blogspot.com/2015/10/python-for-data-analysis-part-1-setup.html)
 
 2. [Python Arithmetic](http://hamelg.blogspot.com/2015/10/python-for-data-analysis-part-2-python.html)
 
 3. [Basic Data Types](http://hamelg.blogspot.com/2015/10/python-for-data-analysis-part-3-basic.html)
+
+&nbsp;
+
+*Section 2: Data Structures*
 
 4. [Variables](http://hamelg.blogspot.com/2015/10/python-for-data-analysis-part-4.html)
 
@@ -45,11 +53,19 @@ Somehow when doing a web search for information related to Ipython or Pandas or 
 
 10. [Reading and Writing Data](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-10.html)
 
+&nbsp;
+
+*Section 3: Programming Constructs*
+
 11. [Control Flow](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-11.html)
 
 12. [Defining Functions](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-12.html)
 
 13. [List and Dictionary Comprehensions](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-13-list.html)
+
+&nbsp;
+
+*Section 4: Data Exploration and Cleaning*
 
 14. [Initial Data Exploration and Preparation](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-14.html)
 
@@ -65,17 +81,29 @@ Somehow when doing a web search for information related to Ipython or Pandas or 
 
 20. [Plotting with Pandas](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-19.html)
 
+&nbsp;
+
+*Section 5: Basic Statistics*
+
 21. [Descriptive Statistics](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-21.html)
 
 22. [Probability Distributions](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-22.html)
 
 23. [Point Estimates and Confidence Intervals](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-23-point.html)
 
+&nbsp;
+
+Section 6: Inferential Statistics
+
 24. [Hypothesis Testing and the T-Test](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-24.html)
 
 25. [Chi-Squared Tests](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-25-chi.html)
 
 26. [Analysis of Variance (ANOVA)](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-16_23.html)
+
+&nbsp;
+
+Section 7: Predictive Modeling
 
 27. [Linear Regression](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-27-linear.html)
 
@@ -84,6 +112,8 @@ Somehow when doing a web search for information related to Ipython or Pandas or 
 29. [Decision Trees](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-29.html)
 
 30. [Random Forests](http://hamelg.blogspot.com/2015/12/python-for-data-analysis-part-30-random.html)
+
+Realistically, I think a section a day is a sensible goal. The more sophisticated sections will likely be things I repeat until I can code them from scratch (assuming I have a list of the procedural steps I need code for). This is the same approach I intend to take when reviewing my General Assembly lessons.
 
 &nbsp;
 
@@ -127,7 +157,7 @@ I should say early on that this is a course I already took. I just want to revie
 
 18.
 
-Each lesson has both slides, and an Ipython notebook (or two) to go over. One of the biggest mistakes I made during the part-time course was that I got in the habit of just executing the existing lesson code during class without actually taking the time to understand line-by-line what it was there for. This time I plan on understanding everything line by line and making my own variants that include additional markdown documentation about what you should know about each of the python cells. Additionally, I plan on getting familiar enough with the procedural steps the notebooks take to the point where I can code them from scratch.
+Each lesson has both slides, and an Ipython notebook (or two) to go over. **One of the biggest mistakes I made during the [part-time course](https://ga.co/ds) was that I got in the habit of just executing the existing lesson code during class without actually taking the time to understand line-by-line what it was there for.** This time I plan on understanding everything line by line and making my own variants that include additional markdown documentation about what you should know about each of the python cells. Additionally, I plan on getting familiar enough with the procedural steps the notebooks take to the point where I can code them from scratch.
 
 &nbsp;
 
