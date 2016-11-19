@@ -21,7 +21,31 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 &nbsp;
 
-#### A. Codecademy Courses:
+#### A. Datacamp Courses:
+
+1. [Introduction to R](https://campus.datacamp.com/courses/free-introduction-to-r)
+
+2. [Intro to Statistics with R](https://www.datacamp.com/courses/intro-to-statistics-with-r-introduction)
+
+3. [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+
+4. [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+
+5. [Importing Data in Python Part 1](https://www.datacamp.com/courses/importing-data-in-python-part-1)
+
+6. [Importing Data in Python Part 2](https://www.datacamp.com/courses/importing-data-in-python-part-2)
+
+7. [Introduction to Relational Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
+
+8. [Interactice Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
+
+9. [Statistical Thinking in Python Part 1](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
+
+Most of these take *four hours or less* to do according to the descriptions. I might try to do them all in one week.
+
+&nbsp;
+
+#### B. Codecademy Courses:
 
 1. [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 
@@ -41,25 +65,7 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 &nbsp;
 
-#### B. Datacamp Courses:
-
-1. [Introduction to R](https://campus.datacamp.com/courses/free-introduction-to-r)
-
-2. [Intro to Statistics with R](https://www.datacamp.com/courses/intro-to-statistics-with-r-introduction)
-
-3. [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-
-4. [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
-
-5. [Importing Data in Python Part 1](https://www.datacamp.com/courses/importing-data-in-python-part-1)
-
-6. [Importing Data in Python Part 2](https://www.datacamp.com/courses/importing-data-in-python-part-2)
-
-7. [Introduction to Relational Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
-
-8. [Interactice Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
-
-9. [Statistical Thinking in Python Part 1](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
+Learn the Command Line and Learn Git can be done in a day if I really wanted to. I might just repeat those from time to time. All the others on the list might take days to do, but Codecademy no longer lists hourly estimates. 
 
 &nbsp;
 
