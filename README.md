@@ -49,6 +49,20 @@ I should say early on that this is a course I already took. I just want to revie
 
 12.
 
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+Each lesson has both slides, and an Ipython notebook (or two) to go over. One of the biggest mistakes I made during the part-time course was that I got in the habit of just executing the existing lesson code during class without actually taking the time to understand line-by-line what it was there for. This time I plan on understanding everything line by line and making my own variants that include additional markdown documentation about what you should know about each of the python cells. Additionally, I plan on getting familiar enough with the procedural steps the notebooks take to the point where I can code them from scratch.
+
 &nbsp;
 
 #### B. Datacamp Courses:
