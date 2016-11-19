@@ -19,7 +19,25 @@ This is my attempt at putting that training syllabus together.
 
 These are sites with courses I have either already used or plan to use. I chose Codecademy and Datacamp because they take a more modular approach to how you learn a given topic - that is, you can stick to something specific rather than having to take an entire course track for the tidbits you actually need.
 
+&nbsp;
+
 #### A. Codecademy Courses:
+
+1. [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+
+2. [Learn Git](https://www.codecademy.com/learn/learn-git)
+
+3. [Learn SQL](https://www.codecademy.com/learn/learn-sql)
+
+4. [Python](https://www.codecademy.com/learn/python)
+
+5. [SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics)
+
+6. [SQL: Table Transformation](https://www.codecademy.com/learn/sql-table-transformation)
+
+7. [Javascript](https://www.codecademy.com/learn/javascript)
+
+8. [Learn Javascript](https://www.codecademy.com/learn/learn-javascript)
 
 &nbsp;
 
