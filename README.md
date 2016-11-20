@@ -254,3 +254,11 @@ List first is the title, followed by subject matter, page count, and chapter cou
 &nbsp;
 
 ## 2. Benchmarks Before Enrollment
+
+#### A. Daily Checkpoints
+
+&nbsp;
+
+#### B. Final Benchmarks
+
+&nbsp;
