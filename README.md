@@ -109,43 +109,49 @@ Realistically, I think a section a day is a sensible goal. The more sophisticate
 
 I should say early on that this is a course I already took. I just want to review the lessons again and fork each of the Ipython notebooks into different use cases.
 
-1.
+1. Introduction to Data Science
 
-2.
+2. Research design and Pandas
 
-3.
+3. Statistics fundamentals
 
-4.
+4. Command Line and Version Control
 
-5.
+5. Fetching Data
 
-6.
+6. Intro to Regression
 
-7.
+7. Intro to Classification - K nearest neighbor
 
-8.
+8. Evaluating Model Fit
 
-9.
+9. Classifying with Logistic Regression
 
-10.
+10. Advanced model evaluation
 
-11.
+11. Standardization and Clustering
 
-12.
+12. Natural Language Processing
 
-13.
+13. Dimensionality reduction
 
-14.
+14. Decision Trees
 
-15.
+15. Ensembling, Bagging and Random Forests
 
-16.
+16. Modeling with Time Series Data I
 
-17.
+17. Modeling with Time Series Data II
 
-18.
+18. Where to go next + bonus topics
 
-Each lesson has both slides, and an Ipython notebook (or two) to go over. **One of the biggest mistakes I made during the [part-time course](https://ga.co/ds) was that I got in the habit of just executing the existing lesson code during class without actually taking the time to understand line-by-line what it was there for.** This time I plan on understanding everything line by line and making my own variants that include additional markdown documentation about what you should know about each of the python cells. Additionally, I plan on getting familiar enough with the procedural steps the notebooks take to the point where I can code them from scratch.
+19. SVC - Support Vector Classifier
+
+20. Naive Bayes Classifier
+
+21. Intro to Neural Networks
+
+Each lesson has slides, and an Ipython notebook (or two) to go over. **One of the biggest mistakes I made during the [part-time course](https://ga.co/ds) was that I got in the habit of just executing the existing lesson code during class without actually taking the time to understand line-by-line what it was there for.** This time I plan on understanding everything line by line and making my own variants that include additional markdown documentation about what you should know about each of the python cells. Additionally, I plan on getting familiar enough with the procedural steps the notebooks take to the point where I can code them from scratch.
 
 &nbsp;
 
