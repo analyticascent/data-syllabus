@@ -17,7 +17,7 @@ This is my attempt at putting that training syllabus together.
 
 ## 0. Online Prep
 
-These are sites with courses I have either already used or plan to use. I chose Codecademy and Datacamp because they take a more modular approach to how you learn a given topic - that is, you can stick to something specific rather than having to take an entire course track for the tidbits you actually need. **I also hope to do at least one tutorial a day from either [Data Science Central](http://www.datasciencecentral.com/) or [KDnuggets](http://www.kdnuggets.com/).**
+These are sites with courses I have either already used or plan to use. I chose Codecademy and Datacamp because they take a more modular approach to how you learn a given topic - that is, you can stick to something specific rather than having to take an entire course track for the tidbits you actually need. **I also hope to do at least one tutorial a day from either [Data Science Central](http://www.datasciencecentral.com/) or [KDnuggets](http://www.kdnuggets.com/).** But before anything, I intend to start with [this set of python resources](https://github.com/GalvanizeOpenSource/python-resources) in addition to [this Ipython notebook](https://github.com/GalvanizeOpenSource/Learn-Data-Science-wk2/blob/master/Learn-Data-Science-wk2/datascience_meetup2.ipynb) that Galvanize has put on github. Those will serve as *week zero* of this entire process.
 
 &nbsp;
 
@@ -205,7 +205,9 @@ Learn the Command Line and Learn Git can be done in a day if I really wanted to.
 
 This is the recommended prep material that Galvanize recommends for their [data science immersive](http://www.galvanize.com/courses/data-science/) course: https://github.com/zipfian/data-science-primer
 
-I intend to go over the review material listed to check for familiarity. If I don't feel proficient, then I plan to go over the rest in any given section. But one thing in particular I plan on doing is going over the Standford Machine Learning course (from Coursera) that they include in that repo. I doubt that will take more than a couple weeks if I go over it *after* doing all the sections above. 
+I intend to go over the review material listed to check for familiarity. If I don't feel proficient, then I plan to go over the rest in any given section. But one thing in particular I plan on doing is going over the Standford Machine Learning course (from Coursera) that they include in that repo. I doubt that will take more than a couple weeks if I go over it *after* doing all the sections above.
+
+As mentioned above, Galvanize also has a great [python for data science](https://github.com/GalvanizeOpenSource/python-resources) primer repository, and they also have an [interesting practice scenario](https://github.com/GalvanizeOpenSource/Learn-Data-Science-wk2/blob/master/Learn-Data-Science-wk2/datascience_meetup2.ipynb) with Boston housing prices. Depending on how far I am with material in the reading section below, I could easily be ready to do a technical interview for an immersive course.
 
 &nbsp;
 
