@@ -17,7 +17,7 @@ This is my attempt at putting that training syllabus together.
 
 ## 0. Online Prep
 
-These are sites with courses I have either already used or plan to use. I chose Codecademy and Datacamp because they take a more modular approach to how you learn a given topic - that is, you can stick to something specific rather than having to take an entire course track for the tidbits you actually need.
+These are sites with courses I have either already used or plan to use. I chose Codecademy and Datacamp because they take a more modular approach to how you learn a given topic - that is, you can stick to something specific rather than having to take an entire course track for the tidbits you actually need. **I also hope to do at least one tutorial a day from either [Data Science Central](http://www.datasciencecentral.com/) or [KDnuggets](http://www.kdnuggets.com/).**
 
 &nbsp;
 
@@ -266,6 +266,8 @@ List first is the title, followed by subject matter, page count, and chapter cou
 ## 2. Benchmarks Before Enrollment
 
 #### A. Daily Checkpoints
+
+Read at least one tutorial from either [Data Science Central](http://www.datasciencecentral.com/), or [KDnuggets](http://www.kdnuggets.com/), and do one of the following:
 
 &nbsp;
 
