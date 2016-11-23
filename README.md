@@ -203,6 +203,10 @@ Learn the Command Line and Learn Git can be done in a day if I really wanted to.
 
 #### E. Data Science Primer:
 
+This is the recommended prep material that Galvanize recommends for their [data science immersive](http://www.galvanize.com/courses/data-science/) course: https://github.com/zipfian/data-science-primer
+
+I intend to go over the review material listed to check for familiarity. If I don't feel proficient, then I plan to go over the rest in any given section. But one thing in particular I plan on doing is going over the Standford Machine Learning course (from Coursera) that they include in that repo. I doubt that will take more than a couple weeks if I go over it *after* doing all the sections above. 
+
 &nbsp;
 
 ## 1. Reading List
