@@ -269,6 +269,20 @@ List first is the title, followed by subject matter, page count, and chapter cou
 
 &nbsp;
 
+* Do lesson/section with all Ipython files/slides/etc *OR*
+
+* Read four or more chapters from the reading list *OR*
+
+* Do lesson (if review) and two or more chapters from list
+
+&nbsp;
+
 #### B. Final Benchmarks
 
 &nbsp;
+
+* Completion of course material to code-from-scratch proficiency
+
+* Completion of at least 15 of the 21 book readings listed
+
+* Have a roughly $3K or so down payment ready to go
