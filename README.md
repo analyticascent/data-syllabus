@@ -211,6 +211,30 @@ As mentioned above, Galvanize also has a great [python for data science](https:/
 
 &nbsp;
 
+#### F. Code Wars Challenges:
+
+Based on the advice of a Galvanize student turned instructor, I should aim to surpass several levels of [python challenges on this site](https://www.codewars.com). I don't pretend to know how necessary that will be, but it wouldn't hurt to try to reach that level of proficiency.
+
+&nbsp;
+
+#### G. Project Euler:
+
+For many people in the computer science community, [projecteuler.net](https://projecteuler.net) is an amazing source of practice problems. Already the first few have turned out to be a great "procedual thinking" scenarios. They can be done in a variety of languages but obviously python will be my pick. I think attempting (in python) the first 100 problems listed is a reasonable start.
+
+&nbsp;
+
+#### H. Kaggle Tutorials:
+
+Kaggle has a good [practice tutorial](https://www.kaggle.com/c/titanic) and [datasets](https://www.kaggle.com/datasets) to experiment with. By the time I do everything else listed above, working with those should be an easy thing to do in an Ipthon notebook. Below are some of the datasets I want to work with:
+
+* [Titanic Tutorial](https://www.kaggle.com/c/titanic/data)
+* [Credit card fraud](https://www.kaggle.com/dalpozz/creditcardfraud)
+* [Enron Email Dataset](https://www.kaggle.com/wcukierski/enron-email-dataset)
+* [Kickstarter Projects](https://www.kaggle.com/socathie/kickstarter-project-statistics)
+* [Seattle AirBNB](https://www.kaggle.com/airbnb/seattle)
+
+&nbsp;
+
 ## 1. Reading List
 
 List first is the title, followed by subject matter, page count, and chapter count. Chapter count is significant because I intend to read at least two chapters from this list per day, if not more. In a matter of months, I should be familiar with the weekly content in [Galvanize's 12-week Immersive](http://www.galvanize.com/courses/data-science/) course.
