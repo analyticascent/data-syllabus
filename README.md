@@ -175,6 +175,8 @@ Each lesson has slides, and an Ipython notebook (or two) to go over. **One of th
 
 9. [Statistical Thinking in Python Part 1](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
 
+10. [Python Data Science Toolbox Part 1](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
+
 Most of these take *four hours or less* to do according to the descriptions. I might try to do them all in one week.
 
 &nbsp;
