@@ -17,7 +17,7 @@ This is my attempt at putting that training syllabus together.
 
 ## 0. Online Prep
 
-These are sites with courses I have either already used or plan to use. I chose Codecademy and Datacamp because they take a more modular approach to how you learn a given topic - that is, you can stick to something specific rather than having to take an entire course track for the tidbits you actually need. **I also hope to do at least one tutorial a day from either [Data Science Central](http://www.datasciencecentral.com/) or [KDnuggets](http://www.kdnuggets.com/).** But before anything, I intend to start with [this set of python resources](https://github.com/GalvanizeOpenSource/python-resources) in addition to [this Ipython notebook](https://github.com/GalvanizeOpenSource/Learn-Data-Science-wk2/blob/master/Learn-Data-Science-wk2/datascience_meetup2.ipynb) that Galvanize has put on github. Those will serve as *week zero* of this entire process.
+These are sites with courses I have either already used or plan to use. I chose Codecademy and Datacamp because they take a more modular approach to how you learn a given topic - that is, you can stick to something specific rather than having to take an entire course track for the tidbits you actually need. **I also hope to do at least one tutorial a day from either [Data Science Central](http://www.datasciencecentral.com/) or [KDnuggets](http://www.kdnuggets.com/), in addition to a [Project Euler challenge](https://projecteuler.net/).** But before anything, I intend to start with [this set of python resources](https://github.com/GalvanizeOpenSource/python-resources) in addition to [this Ipython notebook](https://github.com/GalvanizeOpenSource/Learn-Data-Science-wk2/blob/master/Learn-Data-Science-wk2/datascience_meetup2.ipynb) that Galvanize has put on github. Those will serve as *week zero* of this entire process.
 
 &nbsp;
 
@@ -221,7 +221,7 @@ Based on the advice of a Galvanize student turned instructor, I should aim to su
 
 #### G. Project Euler:
 
-For many people in the computer science community, [projecteuler.net](https://projecteuler.net) is an amazing source of practice problems. Already the first few have turned out to be a great "procedual thinking" scenarios. They can be done in a variety of languages but obviously python will be my pick. I think attempting (in python) the first 100 problems listed is a reasonable start.
+For many people in the computer science community, [projecteuler.net](https://projecteuler.net) is an amazing source of practice problems. Already the first few have turned out to be a great "procedual thinking" scenarios. They can be done in a variety of languages but obviously python will be my pick. **I think attempting (in python) the first 100 problems listed (~1/day) is a reasonable start.**
 
 &nbsp;
 
