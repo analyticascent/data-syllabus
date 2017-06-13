@@ -7,7 +7,7 @@
 
 I already had plans on taking some courses from Udacity (particularly the [Data Analyst track](https://www.udacity.com/course/data-analyst-nanodegree--nd002), among [other things](https://www.udacity.com/course/machine-learning--ud262)), and Codecademy had already turned out to be a useful resource as well. So I decided to give coding bootcamps a shot as a more efficient way of both acquiring industry-relevant skills, as well as signal to potential employers what I am capable of doing.
 
-In the spring of 2016, I attended a part-time data science course at General Assembly. I literally learned more in ten weeks from that course than I did in *general* from 18 months of being enrolled at a community college. My capstone from that course [can be found here](https://github.com/analyticascent/stylext). For over a year now I have anticipated taking the three-month immersive at Galvanize as a final stepping stone to full time work. But any endeavor this intense warrants some early training beforehand.
+In the spring of 2016, I attended a part-time data science course at General Assembly. I literally learned more in ten weeks from that course than I did *in general* from 18 months of being enrolled at a community college. My capstone from that course [can be found here](https://github.com/analyticascent/stylext). For over a year now I have anticipated taking the three-month immersive at Galvanize as a final stepping stone to full time work. But any endeavor this intense warrants some early training beforehand.
 
 This is my attempt at putting that training syllabus together.
 
@@ -240,6 +240,8 @@ Kaggle has a good [practice tutorial](https://www.kaggle.com/c/titanic) and [dat
 ## 1. Reading List
 
 List first is the title, followed by subject matter, page count, and chapter count. Chapter count is significant because I intend to read at least two chapters from this list per day, if not more. In a matter of months, I should be familiar with the weekly content in [Galvanize's 12-week Immersive](http://www.galvanize.com/courses/data-science/) course.
+
+*Note: this list is now heavily out of date. As of recently, I have been putting mapt.io to use and reading some of the "learning path" titles (which tend to be three or more books in one).*
 
 &nbsp;
 
