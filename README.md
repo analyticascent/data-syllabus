@@ -239,57 +239,65 @@ Kaggle has a good [practice tutorial](https://www.kaggle.com/c/titanic) and [dat
 
 ## 1. Reading List
 
-List first is the title, followed by subject matter, page count, and chapter count. Chapter count is significant because I intend to read at least two chapters from this list per day, if not more. In a matter of months, I should be familiar with the weekly content in [Galvanize's 12-week Immersive](http://www.galvanize.com/courses/data-science/) course.
-
-*Note: this list is now heavily out of date. As of recently, I have been putting mapt.io to use and reading some of the "learning path" titles (which tend to be three or more books in one).*
+In a matter of months, I should be prepared the weekly content in [Galvanize's 12-week Immersive](http://www.galvanize.com/courses/data-science/) course.
 
 &nbsp;
 
-0. **Learn Python the Hard Way** - *(python)* - **280**, 52 
+ 0. **Learn Python the Hard Way** - **280**, 52 
 
-1. **Data Science for Dummies** -	*(general)* - **365**,	23
+ 1. **Essential Mathematics for Science and Technology** - **700**,	19
 
-2. **Data Science from Scratch** - *(python)* -	**305**,	25
+ 2. **Statistics Essentials for Dummies** - **125**, 14
 
-3. **Statistics Done Wrong** - *(math/stats)* -	**130**,	16
+ 3. **Data Science from Scratch** - **305**,	25
 
-4. **Getting Started with SQL + NoSQL** -	*(sql)* -	**260**,	17
+ 4. **Statistics Done Wrong** - **130**,	16
 
-5. **Doing Data Science** -	*(general)* -	**405**,	16
+ 5. **Scipy and Numpy** -	**60**,	5
 
-6. **Scikit-Learn Cookbook** - *(scipy/numpy)* - **195**,	5
+ 6. **How to Make Mistakes in Python** - **50**,	5
 
-7. **Probability, An Introduction** - *(math/stats)* - **250**,	12
+ 7. **Code Simplicity** - **80**, 9
 
-8. **Mastering Machine Learning w/Scikit-Learn** - *(scipy/numpy)* -	**215**,	10
+ 8. **Probability, An Introduction** - **250**,	12
 
-9. **Mastering Data Mining with Python** - *(python)* -	**240**,	9
+ 9. **Principles of Data Science** - **365**, 13
 
-10. **Introducing Data Science** - *(general)* - **285**,	9
+10. **Calculus Essentials for Dummies** - **180**, 12
 
-11. **Practical Data Analysis** -	*(general)* -	**325**,	15
+11. **Learning Ipython** - **175**,	6
 
-12. **Instant Flask Web Development** -	*(web dev)* -	**65**,	2
+12. **Linear Algebra for Dummies** - **350**, 19
 
-13. **Practical Data Science Cookbook**	- *(general)* -	**350**,	11
+13. **Python Data Science Essentials** - **350**, 6
 
-14. **Python Data Analysis Cookbook** -	*(python)* - **425**,	12
+14. **Getting Started with Tensorflow** - **165**, 6
 
-15. **Web Scraping with Python (1-6 & Pakt)** -	*(scrape)* - **300**,	15
+15. **Ipython Interactive Computing and Visualization Cookbook** - **500**, 15
 
-16. **Practical Statistics for Data Science** - *(math/stats)* -	**225**,	5
+16. **Practical Data Analysis** -	**300**,	15
 
-17. **Natural Language Processing with Python** -	*(nlp)* -	**450**,	11
+17. **Practical Data Science Cookbook**	- **250**,	7 (only python chapters for now)
 
-18. **Python for Data Science for Dummies** - *(scipy/numpy)* - **420**, 22
+18. **Building Recommendation Engines** - **340**, 10
 
-19. **Soft Skills** - *(miscellaneous)* - **490**, 7 (sections)
+19. **Python Real-World Data Science** - **1200**, 42
 
-20. **Essential Mathematics for Science and Technology** - *(math/stats)* - **700**,	19
+20. **Python Data Analysis and Visualization** - **830**, 25
+
+21. **Getting Started with Beautiful Soup** - **100**, 8
+
+22. **Web Scraping with Python** - **135**,	9
+
+23. **Natural Language Processing - Python and NLTK** -	**650**,	30
+
+24. **Deep Learning with Python** - **160**, 10
+
+25. **Python and AWS Cookbook** - **60**, 3
 
 &nbsp;
 
-*Total page count:* **~6,000** - *Chapter count:* **~250**. ***Goal is to read at least two chapters per day for 4 months.***
+*Total page count:* **~8,250** - *Chapter count:* **~400**. **Goal is to read at least 100 pages or 4 chapters per day for 100 days.**
 
 &nbsp;
 
