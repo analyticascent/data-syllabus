@@ -239,7 +239,7 @@ Kaggle has a good [practice tutorial](https://www.kaggle.com/c/titanic) and [dat
 
 ## 1. Reading List
 
-In a matter of months, I should be prepared the weekly content in [Galvanize's 12-week Immersive](http://www.galvanize.com/courses/data-science/) course.
+In a matter of months, I should be prepared the weekly content in [Galvanize's 12-week Immersive](http://www.galvanize.com/courses/data-science/) course. I will be reading many of these titles through [Mapt.io](https://mapt.io/)
 
 &nbsp;
 
@@ -248,56 +248,62 @@ In a matter of months, I should be prepared the weekly content in [Galvanize's 1
  1. **Essential Mathematics for Science and Technology** - **700**,	19
 
  2. **Statistics Essentials for Dummies** - **125**, 14
+ 
+ 3. **Humongous Book of Statistics Problems** - **545**, 18
 
- 3. **Data Science from Scratch** - **305**,	25
+ 4. **Data Science from Scratch** - **305**,	25
 
- 4. **Statistics Done Wrong** - **130**,	16
+ 5. **Statistics Done Wrong** - **130**,	16
 
- 5. **Scipy and Numpy** -	**60**,	5
+ 6. **Scipy and Numpy** -	**60**,	5
 
- 6. **How to Make Mistakes in Python** - **50**,	5
+ 7. **How to Make Mistakes in Python** - **50**,	5
 
- 7. **Code Simplicity** - **80**, 9
+ 8. **Code Simplicity** - **80**, 9
 
- 8. **Probability, An Introduction** - **250**,	12
+ 9. **Probability, An Introduction** - **250**,	12
 
- 9. **Principles of Data Science** - **365**, 13
+10. **Principles of Data Science** - **365**, 13
 
-10. **Calculus Essentials for Dummies** - **180**, 12
+11. **Calculus Essentials for Dummies** - **180**, 12
 
-11. **Learning Ipython** - **175**,	6
+12. **Learning Ipython** - **175**,	6
 
-12. **Linear Algebra for Dummies** - **350**, 19
+13. **Linear Algebra for Dummies** - **350**, 19
 
-13. **Python Data Science Essentials** - **350**, 6
+14. **Python Data Science Essentials** - **350**, 6
 
-14. **Getting Started with Tensorflow** - **165**, 6
+15. **Getting Started with Tensorflow** - **165**, 6
 
-15. **Ipython Interactive Computing and Visualization Cookbook** - **500**, 15
+16. **Ipython Interactive Computing and Visualization Cookbook** - **500**, 15
 
-16. **Practical Data Analysis** -	**300**,	15
+17. **Practical Data Analysis** -	**300**,	15
 
-17. **Practical Data Science Cookbook**	- **250**,	7 (only python chapters for now)
+18. **Practical Data Science Cookbook**	- **250**,	7 (only python chapters for now)
 
-18. **Building Recommendation Engines** - **340**, 10
+19. **Building Recommendation Engines** - **340**, 10
 
-19. **Python Real-World Data Science** - **1200**, 42
+20. **Python Real-World Data Science** - **1200**, 42
 
-20. **Python Data Analysis and Visualization** - **830**, 25
+21. **Python Data Analysis and Visualization** - **830**, 25
 
-21. **Getting Started with Beautiful Soup** - **100**, 8
+22. **Getting Started with Beautiful Soup** - **100**, 8
 
-22. **Web Scraping with Python** - **135**,	9
+23. **Web Scraping with Python** - **135**,	9
 
-23. **Natural Language Processing - Python and NLTK** -	**650**,	30
+24. **Natural Language Processing - Python and NLTK** -	**650**,	30
 
-24. **Deep Learning with Python** - **160**, 10
+25. **Deep Learning with Python** - **160**, 10
 
-25. **Python and AWS Cookbook** - **60**, 3
+26. **Python and AWS Cookbook** - **60**, 3
+
+27. **Instant Flask** - **70**, 1
+
+28. **Various Papers and Cheat Sheets** - **~150**
 
 &nbsp;
 
-*Total page count:* **~8,250** - *Chapter count:* **~400**. **Goal is to read at least 100 pages or 4 chapters per day for 100 days.**
+*Total page count:* **~8,500** - *Chapter count:* **400+**. **Goal is to read *at least* 80 pages or 4 chapters per day for 100 days.**
 
 &nbsp;
 
