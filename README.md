@@ -239,7 +239,7 @@ Kaggle has a good [practice tutorial](https://www.kaggle.com/c/titanic) and [dat
 
 ## 1. Reading List
 
-In a matter of months, I should be prepared the weekly content in [Galvanize's 12-week Immersive](http://www.galvanize.com/courses/data-science/) course. I will be reading many of these titles through [Mapt.io](https://mapt.io/)
+In a matter of months, I should be prepared for the weekly content that someone would encounter in [Galvanize's 12-week Immersive](http://www.galvanize.com/courses/data-science/) course. I will be reading **most** of these titles through [Mapt.io](https://mapt.io/)
 
 &nbsp;
 
