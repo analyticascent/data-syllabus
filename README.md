@@ -243,67 +243,49 @@ In a matter of months, I should be prepared for the weekly content that someone 
 
 &nbsp;
 
- 0. **Learn Python the Hard Way** - **280**, 52 
+ 0. **Learn Python the Hard Way** - **250**, 52 
 
- 1. **Essential Mathematics for Science and Technology** - **700**,	19
+ 1. **Essential Mathematics for Science and Technology** - **650**,	19
 
  2. **Statistics Essentials for Dummies** - **125**, 14
  
- 3. **Humongous Book of Statistics Problems** - **545**, 18
+ 3. **Principles of Data Science** - **365**, 13
 
  4. **Data Science from Scratch** - **305**,	25
 
- 5. **Statistics Done Wrong** - **130**,	16
+ 5. **Linear Algebra for Dummies** - **350**, 19
 
- 6. **Scipy and Numpy** -	**60**,	5
+ 6. **Scipy and Numpy** -	**55**,	5
 
  7. **How to Make Mistakes in Python** - **50**,	5
 
- 8. **Code Simplicity** - **80**, 9
-
+ 8. **Learning Ipython** - **165**,	6
+ 
  9. **Probability, An Introduction** - **250**,	12
 
-10. **Principles of Data Science** - **365**, 13
+10. **Python Data Science Essentials** - **320**, 6
 
-11. **Calculus Essentials for Dummies** - **180**, 12
+11. **Ipython Interactive Computing and Visualization Cookbook** - **475**, 15
 
-12. **Learning Ipython** - **175**,	6
+12. **Building Recommendation Engines** - **340**, 10
 
-13. **Linear Algebra for Dummies** - **350**, 19
+13. **Python Real-World Data Science** - **1150**, 42
 
-14. **Python Data Science Essentials** - **350**, 6
+14. **Python Data Analytics and Visualization** - **800**, 25
 
 15. **Getting Started with Tensorflow** - **165**, 6
 
-16. **Ipython Interactive Computing and Visualization Cookbook** - **500**, 15
+16. **Python and AWS Cookbook** - **60**, 3
 
-17. **Practical Data Analysis** -	**300**,	15
+17. **Instant Flask** - **70**, 1
 
-18. **Practical Data Science Cookbook**	- **250**,	7 (only python chapters for now)
-
-19. **Building Recommendation Engines** - **340**, 10
-
-20. **Python Real-World Data Science** - **1200**, 42
-
-21. **Python Data Analysis and Visualization** - **830**, 25
-
-22. **Getting Started with Beautiful Soup** - **100**, 8
-
-23. **Web Scraping with Python** - **135**,	9
-
-24. **Natural Language Processing - Python and NLTK** -	**650**,	30
-
-25. **Deep Learning with Python** - **160**, 10
-
-26. **Python and AWS Cookbook** - **60**, 3
-
-27. **Instant Flask** - **70**, 1
-
-28. **Various Papers and Cheat Sheets** - **~150**
+18. **Various Papers and Cheat Sheets** - **~50**
 
 &nbsp;
 
-*Total page count:* **~8,500** - *Chapter count:* **400+**. **Goal is to read *at least* 80 pages or 4 chapters per day for 100 days.**
+I adjusted the page lengths in light of the fact that early parts of some of these are just about installing libraries (which I've already done).
+
+*Total page count:* **~6,000** - *Chapter count:* **<300**. **Goal is to read *at least* 80 pages or 4 chapters per day for 75 of the days between now and October 2017.**
 
 &nbsp;
 
