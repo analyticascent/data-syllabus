@@ -243,49 +243,55 @@ In a matter of months, I should be prepared for the weekly content that someone 
 
 &nbsp;
 
- 0. **Learn Python the Hard Way** - **250**, 52 
-
- 1. **Essential Mathematics for Science and Technology** - **650**,	19
-
- 2. **Statistics Essentials for Dummies** - **125**, 14
+ 0. **Learn Python the Hard Way** - **250**, 52
  
- 3. **Principles of Data Science** - **365**, 13
+ 1. **Learning Python** - **400**, 12
 
- 4. **Data Science from Scratch** - **305**,	25
-
- 5. **Linear Algebra for Dummies** - **350**, 19
-
- 6. **Scipy and Numpy** -	**55**,	5
-
- 7. **How to Make Mistakes in Python** - **50**,	5
-
- 8. **Learning Ipython** - **165**,	6
+ 2. **Principles of Data Science** - **365**, 13
  
- 9. **Probability, An Introduction** - **250**,	12
+ 3. **Data Science from Scratch** - **305**,	25
 
-10. **Python Data Science Essentials** - **320**, 6
+ 4. **Statistics Essentials for Dummies** - **125**, 14
+ 
+ 5. **Data Science Algorithms in a Week** - **175**, 7
+ 
+ 6. **Python Data Science Essentials** - **320**, 6
+ 
+ 7. **Learning Ipython** - **165**,	6
+ 
+ 8. **Ipython Interactive Computing and Visualization Cookbook** - **475**, 15
+ 
+ 9. **Building Recommendation Engines** - **340**, 10
+ 
+10. **Getting Started with Tensorflow** - **165**, 6
 
-11. **Ipython Interactive Computing and Visualization Cookbook** - **475**, 15
+11. **Probability, An Introduction** - **250**,	12
+ 
+12. **Python Real-World Data Science** - **1150**, 42
 
-12. **Building Recommendation Engines** - **340**, 10
+13. **Python Data Analytics and Visualization** - **800**, 25
 
-13. **Python Real-World Data Science** - **1150**, 42
+14. **Python and AWS Cookbook** - **60**, 3
 
-14. **Python Data Analytics and Visualization** - **800**, 25
+15. **Hands-On Data Science and Python Machine Learning** - **400**, 10
 
-15. **Getting Started with Tensorflow** - **165**, 6
-
-16. **Python and AWS Cookbook** - **60**, 3
+16. **Natural Language Processing: Python and NLTK** - **665**, 30
 
 17. **Instant Flask** - **70**, 1
 
-18. **Various Papers and Cheat Sheets** - **~50**
+18. **Learning AWS** - **375**, 10
+
+19. **Essential Mathematics for Science and Technology** - **650**,	19
+
+20. **Hands-On Deep Learning with TensorFlow** - **150**, 5
+
+21. **Various Papers and Cheat Sheets** - **~50**
 
 &nbsp;
 
 I adjusted the page lengths in light of the fact that early parts of some of these are just about installing libraries (which I've already done).
 
-*Total page count:* **~6,000** - *Chapter count:* **<300**. **Goal is to read *at least* 80 pages or 4 chapters per day for 75 of the days between now and October 2017.**
+*Total page count:* **~7,500** - *Chapter count:* **<325**. **Goal is to read *at least* 80 pages or 4 chapters per day for 75 of the days between now and June 2018.**
 
 &nbsp;
 
