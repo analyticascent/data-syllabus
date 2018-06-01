@@ -5,6 +5,8 @@
 
 ## Probability Distributions:
 
-**Discreet**
+### Discreet
 
-**Continuous**
+
+
+### Continuous
