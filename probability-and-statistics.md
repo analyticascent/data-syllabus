@@ -11,7 +11,7 @@
 
 --
 
-Conditions:
+**Conditions:**
 
 * fixed number of trials
 
@@ -29,7 +29,7 @@ Conditions:
 
 --
 
-Conditions:
+**Conditions:**
 
 * unfixed number of trials
 
@@ -47,7 +47,7 @@ Conditions:
 
 --
 
-Conditions:
+**Conditions:**
 
 * number of times an event occurs over fixed unit of measure
 
@@ -63,7 +63,7 @@ Conditions:
 
 --
 
-Conditions:
+**Conditions:**
 
 * what interval length will likely give us a specified number of trials?
 
