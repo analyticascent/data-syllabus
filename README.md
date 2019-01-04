@@ -1,23 +1,21 @@
 # Data Science Syllabus and Benchmarks
-**Documented below are various articles, tutorials, books, videos, and online courses related to practical data science.**
+**Documented below are various tutorials, books, and online courses related to practical data science**
 
 &nbsp;
 
-**Background:** In the fall of 2015, I attended [a free event](https://www.eventbrite.com/e/crowdfunding-decoded-find-your-early-adopters-and-launch-products-tickets-18339325416?aff=ebapi) at the Seattle Galvanize campus. The presentation itself was fascinating, but it also happened to be my first encounter with a coding bootcamp. Previously I heard of such things through stories about how regulations in California [were potentially stifling them](https://www.techdirt.com/articles/20140130/11104326050/apparently-you-cant-teach-someone-to-code-california-without-license.shtml), but I had no idea how effective they would become as a college alternative...
+**Background:** As of the beginning of this year (2019) this has undergone some serious revisions to reflect the things that I have read (and found useful), as well as things that I'm tentatively planning on reading and trying out before January is over. Rather than focus on a syllabus that overlaps with the content of a 12-week program I was considering, I decided to make this more reflective of what was currently mentioned on Lambda School's **30-week** syllabus at the time I was doing prework.
 
-I already had plans on taking some courses from Udacity (particularly the [Data Analyst track](https://www.udacity.com/course/data-analyst-nanodegree--nd002), among [other things](https://www.udacity.com/course/machine-learning--ud262)), and Codecademy had already turned out to be a useful resource as well. So I decided to give coding bootcamps a shot as a more efficient way of both acquiring industry-relevant skills, as well as signal to potential employers what I am capable of doing.
+**Now that I know what syllabus sections tentatively correspond to what weeks of the course, I feel confident I can reorganize various sections of this markdown file to better reflect what *that* course covers.**
 
-In the spring of 2016, I attended a part-time data science course at General Assembly. I literally learned more in ten weeks from that course than I did *in general* from 18 months of being enrolled at a community college. My capstone from that course [can be found here](https://github.com/analyticascent/stylext). For over a year now I have anticipated taking the three-month immersive at Galvanize as a final stepping stone to full time work. But any endeavor this intense warrants some early training beforehand.
-
-This is my attempt at putting that training syllabus together.
+More than any other program, Lambda School's curriculum is focused on actually placing people in *jobs* - largely because [their main tuition model](https://www.youtube.com/watch?v=IGh5-g4KR1Q) only allows them to collect revenue when students have become gainfully employed.
 
 ---
 
 &nbsp;
 
-## 0. Online Prep
+## 1. Online Prep
 
-These are sites with courses I have either already used or plan to use. I chose Codecademy and Datacamp because they take a more modular approach to how you learn a given topic - that is, you can stick to something specific rather than having to take an entire course track for the tidbits you actually need. **I also hope to do at least one tutorial a day from either [Data Science Central](http://www.datasciencecentral.com/) or [KDnuggets](http://www.kdnuggets.com/), in addition to a [Project Euler challenge](https://projecteuler.net/).** But before anything, I intend to start with [this set of python resources](https://github.com/GalvanizeOpenSource/python-resources) in addition to [this Ipython notebook](https://github.com/GalvanizeOpenSource/Learn-Data-Science-wk2/blob/master/Learn-Data-Science-wk2/datascience_meetup2.ipynb) that Galvanize has put on github. Those will serve as *week zero* of this entire process.
+These are sites with courses I have either already used or plan to use. I chose Codecademy and Datacamp because they take a more modular approach to how you learn a given topic - that is, you can stick to something specific rather than having to take an entire course track for the tidbits you actually need.
 
 &nbsp;
 
@@ -107,7 +105,7 @@ Realistically, I think a section a day is a sensible goal. The more sophisticate
 
 #### B. General Assembly:
 
-I should say early on that this is a course I already took. I just want to review the lessons again and fork each of the Ipython notebooks into different use cases.
+I should say early on that this is a course I already took. I just want to review the lessons again and fork each of the Ipython notebooks into different use cases to better understand the techniques they cover.
 
 1. Introduction to Data Science
 
@@ -157,25 +155,21 @@ Each lesson has slides, and an Ipython notebook (or two) to go over. **One of th
 
 #### C. Datacamp Courses:
 
-1. [Introduction to R](https://campus.datacamp.com/courses/free-introduction-to-r)
+1. [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
-2. [Intro to Statistics with R](https://www.datacamp.com/courses/intro-to-statistics-with-r-introduction)
+2. [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
 
-3. [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+3. [Importing Data in Python Part 1](https://www.datacamp.com/courses/importing-data-in-python-part-1)
 
-4. [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+4. [Importing Data in Python Part 2](https://www.datacamp.com/courses/importing-data-in-python-part-2)
 
-5. [Importing Data in Python Part 1](https://www.datacamp.com/courses/importing-data-in-python-part-1)
+5. [Introduction to Relational Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
 
-6. [Importing Data in Python Part 2](https://www.datacamp.com/courses/importing-data-in-python-part-2)
+6. [Interactice Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
 
-7. [Introduction to Relational Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
+7. [Statistical Thinking in Python Part 1](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
 
-8. [Interactice Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
-
-9. [Statistical Thinking in Python Part 1](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
-
-10. [Python Data Science Toolbox Part 1](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
+8. [Python Data Science Toolbox Part 1](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
 
 Most of these take *four hours or less* to do according to the descriptions. I might try to do them all in one week.
 
@@ -189,7 +183,7 @@ Most of these take *four hours or less* to do according to the descriptions. I m
 
 3. [Learn SQL](https://www.codecademy.com/learn/learn-sql)
 
-4. [Python](https://www.codecademy.com/learn/python)
+4. [Python 3](https://www.codecademy.com/learn/learn-python-3)
 
 5. [SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics)
 
@@ -199,124 +193,66 @@ Most of these take *four hours or less* to do according to the descriptions. I m
 
 8. [Learn Javascript](https://www.codecademy.com/learn/learn-javascript)
 
-Learn the Command Line and Learn Git can be done in a day if I really wanted to. I might just repeat those from time to time. All the others on the list might take days to do, but Codecademy no longer lists hourly estimates. 
+Learn the Command Line and Learn Git can be done in a day if I really wanted to. I might just repeat those from time to time. All the others on the list might take days to do, but Codecademy sometimes doesn't list hourly estimates.
 
 &nbsp;
 
-#### E. Data Science Primer:
-
-This is the recommended prep material that Galvanize recommends for their [data science immersive](http://www.galvanize.com/courses/data-science/) course: https://github.com/zipfian/data-science-primer
-
-I intend to go over the review material listed to check for familiarity. If I don't feel proficient, then I plan to go over the rest in any given section. But one thing in particular I plan on doing is going over the Standford Machine Learning course (from Coursera) that they include in that repo. I doubt that will take more than a couple weeks if I go over it *after* doing all the sections above.
-
-As mentioned above, Galvanize also has a great [python for data science](https://github.com/GalvanizeOpenSource/python-resources) primer repository, and they also have an [interesting practice scenario](https://github.com/GalvanizeOpenSource/Learn-Data-Science-wk2/blob/master/Learn-Data-Science-wk2/datascience_meetup2.ipynb) with Boston housing prices. Depending on how far I am with material in the reading section below, I could easily be ready to do a technical interview for an immersive course.
-
-&nbsp;
-
-#### F. Code Wars Challenges:
+#### E. Code Wars Challenges:
 
 Based on the advice of a Galvanize student turned instructor, I should aim to surpass several levels of [python challenges on this site](https://www.codewars.com). I don't pretend to know how necessary that will be, but it wouldn't hurt to try to reach that level of proficiency.
 
 &nbsp;
 
-#### G. Project Euler:
+#### F. Kaggle Tutorials:
 
-For many people in the computer science community, [projecteuler.net](https://projecteuler.net) is an amazing source of practice problems. Already the first few have turned out to be a great "procedual thinking" scenarios. They can be done in a variety of languages but obviously python will be my pick. **I think attempting (in python) the first 100 problems listed (~1/day) is a reasonable start.**
+The homepage for these can be found here: https://www.kaggle.com/learn/overview
 
-&nbsp;
-
-#### H. Kaggle Tutorials:
-
-Kaggle has a good [practice tutorial](https://www.kaggle.com/c/titanic) and [datasets](https://www.kaggle.com/datasets) to experiment with. By the time I do everything else listed above, working with those should be an easy thing to do in an Ipthon notebook. Below are some of the datasets I want to work with:
-
-* [Titanic Tutorial](https://www.kaggle.com/c/titanic/data)
-* [Credit card fraud](https://www.kaggle.com/dalpozz/creditcardfraud)
-* [Enron Email Dataset](https://www.kaggle.com/wcukierski/enron-email-dataset)
-* [Kickstarter Projects](https://www.kaggle.com/socathie/kickstarter-project-statistics)
-* [Seattle AirBNB](https://www.kaggle.com/airbnb/seattle)
+As of now, I'm not sure how useful the tutorials on that site will be given the fact that they appear to cover stuff I'll be learning elsewhere. But it won't hurt to see if there's anything I've missed. 
 
 &nbsp;
 
-## 1. Reading List
+## 2. Reading and Video Course List
 
 In a matter of months, I should be prepared for the weekly content that someone would encounter in [Galvanize's 12-week Immersive](http://www.galvanize.com/courses/data-science/) course. I will be reading most of these titles through [Mapt.io](https://mapt.io/) since they tend to be published by Packt.
 
 &nbsp;
 
- 0. **Learn Python the Hard Way** - **250**, 52
+#### A. Pre-Course Reading List
+
+These are by no means the only books on my radar, there are plenty more for later but these are the ones I intend to have done before the course starts. Given that a project of mine involves the use of natural language processing to infer whether news articles or academic studies contain certain pieces of information or not, this list reflects that focus (in addition to touching on things Lambda covers).
+
+  0. **Learn Python the Hard Way** - **250**, 52
+
+  1. **Principles of Data Science** - **365**, 13
  
- 1. **Learning Python** - **400**, 12
-
- 2. **Principles of Data Science** - **365**, 13
+  2. **Data Science from Scratch** - **305**,	25
  
- 3. **Data Science from Scratch** - **305**,	25
-
- 4. **Statistics Essentials for Dummies** - **125**, 14
+  3. **Humongous Book of Statistics Problems** - **525**, 18
  
- 5. **Data Science Algorithms in a Week** - **175**, 7
+  4. **Python Data Science Essentials 3rd Ed** - **450**, 8
  
- 6. **Python Data Science Essentials** - **320**, 6
+  5. **SQL Practice Problems** - **140**, 57
  
- 7. **Learning Ipython** - **165**,	6
+  6. **Getting Started with Tensorflow** - **165**, 6
  
- 8. **Ipython Interactive Computing and Visualization Cookbook** - **475**, 15
+  7. **Statistics Done Wrong** - **130**, 12
  
- 9. **Building Recommendation Engines** - **340**, 10
+  8. **Python Web Scraping Cookbook** - **330**, 11
  
-10. **Getting Started with Tensorflow** - **165**, 6
-
-11. **Probability, An Introduction** - **250**,	12
+  9. **Hands-On Automated Machine Learning** - **250**, 8
  
-12. **Python Real-World Data Science** - **1150**, 42
-
-13. **Python Data Analytics and Visualization** - **800**, 25
-
-14. **Python and AWS Cookbook** - **60**, 3
-
-15. **Hands-On Data Science and Python Machine Learning** - **400**, 10
-
-16. **Natural Language Processing: Python and NLTK** - **665**, 30
-
-17. **Instant Flask** - **70**, 1
-
-18. **Learning AWS** - **375**, 10
-
-19. **Essential Mathematics for Science and Technology** - **650**,	19
-
-20. **Hands-On Deep Learning with TensorFlow** - **150**, 5
-
-21. **Various Papers and Cheat Sheets** - **~50**
-
+ 10. **Hands-On Data Science and Python Machine Learning** - **395**, 10
+ 
+ 11. **Hands-On Data Visualization with Bokeh** - **150**, 8
+ 
+ 12. **Natural Language Processing and Computational Linguistics** - **280**, 15
+ 
 &nbsp;
 
-I adjusted the page lengths in light of the fact that early parts of some of these are just about installing libraries (which I've already done).
+#### B. Pre-Course Video Tutorial List:
 
-*Total page count:* **~7,500** - *Chapter count:* **<325**. **Goal is to read *at least* 80 pages or 4 chapters per day for 75 of the days between now and June 2018.**
+These courses come from Packt, they tend to reflect my focus on natural language processing. I've already noticed that it helps to learn the same subject matter in more than one format to really understand it. Below I listed how long the videos are, but **adding the actual time it takes to try out what they cover** usually means they take **three times as long to finish**.
 
-&nbsp;
+  0. **Learn Python in Three Hours** - *3 hours*
 
-## 2. Benchmarks Before Enrollment
-
-#### A. Daily Checkpoints
-
-Read at least one tutorial from either [Data Science Central](http://www.datasciencecentral.com/), or [KDnuggets](http://www.kdnuggets.com/), and do one of the following:
-
-&nbsp;
-
-* Do lesson/section with all Ipython files/slides/etc *OR*
-
-* Read four or more chapters from the reading list *OR*
-
-* Do lesson (if review) and two or more chapters from list
-
-&nbsp;
-
-#### B. Final Benchmarks
-
-&nbsp;
-
-* Completion of course material to code-from-scratch proficiency
-
-* Completion of at least 15 of the 21 book readings listed
-
-* Have a roughly $3K or so down payment ready to go
+  1. **Next Generation Natural Language Processing** - *2 hours*
