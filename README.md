@@ -211,6 +211,8 @@ As of now, I'm not sure how useful the tutorials on that site will be given the 
 
 &nbsp;
 
+---
+
 ## 2. Reading and Video Course List
 
 In a matter of months, I should be prepared for the weekly content that someone would encounter in [Galvanize's 12-week Immersive](http://www.galvanize.com/courses/data-science/) course. I will be reading most of these titles through [Mapt.io](https://mapt.io/) since they tend to be published by Packt.
@@ -256,3 +258,7 @@ These courses come from Packt, they tend to reflect my focus on natural language
   0. **Learn Python in Three Hours** - *3 hours*
 
   1. **Next Generation Natural Language Processing** - *2 hours*
+  
+  2. **Natural Language Processing with Python** - *2 hours*
+  
+  3. **Mastering Natural Language Processing with Python** - *2 hours*
