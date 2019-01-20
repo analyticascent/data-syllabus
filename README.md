@@ -19,7 +19,7 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 &nbsp;
 
-#### A. Codecademy Courses:
+#### A. Codecademy Courses: 
 
 1. [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 
@@ -37,7 +37,7 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 8. [Learn Javascript](https://www.codecademy.com/learn/learn-javascript)
 
-Learn the Command Line and Learn Git can be done in a day if I really wanted to. I might just repeat those from time to time. All the others on the list might take days to do, but Codecademy sometimes doesn't list hourly estimates.
+Learn the Command Line and Learn Git can be done in a day if I really wanted to. I might just repeat those from time to time. All the others on the list might take days to do, but Codecademy sometimes doesn't list hourly estimates. **At a bare minimum, you should do the first three (command line, git, SQL) since those cover things you can't as easily find elsewhere.** Basic Python for data science is covered well by Datacamp.
 
 &nbsp;
 
@@ -59,7 +59,7 @@ Learn the Command Line and Learn Git can be done in a day if I really wanted to.
 
 8. [Python Data Science Toolbox Part 1](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
 
-Most of these take *four hours or less* to do according to the descriptions. I might try to do them all in one week.
+Most of these take *four hours or less* to do according to the descriptions. I might try to do them all in one week. **The first two are excellent overviews of using Python in a data science context, absolutely make use of them.**
 
 &nbsp;
 
@@ -128,3 +128,7 @@ These courses come from Packt, they tend to reflect my focus on natural language
   2. **Natural Language Processing with Python** - *2 hours*
   
   3. **Mastering Natural Language Processing with Python** - *2 hours*
+  
+  4. **Working with Big Data in Python** - *3 hours*
+  
+  5. **Ensemble Machine Learning Techniques** - *3 hours*
