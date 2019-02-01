@@ -39,6 +39,8 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 Learn the Command Line and Learn Git can be done in a day if I really wanted to. I might just repeat those from time to time. All the others on the list might take days to do, but Codecademy sometimes doesn't list hourly estimates. **At a bare minimum, you should do the first three (command line, git, SQL) since those cover things you can't as easily find elsewhere.** Basic Python for data science is covered well by Datacamp.
 
+**Update:** In the Pro version of Codecademy, you recieve access to [topic-specific tracks](https://www.codecademy.com/catalog/subject/all) that cover content in a way that focuses on Code Foundations, Data Science, Computer Science, and Web Development. I would suggest paying for a one-month pro membership and doing the first three of those tracks, possibly even the Web Development track as well if you want to understand what potential coworkers have to work on. 
+
 &nbsp;
 
 #### B. Datacamp Courses:
@@ -61,11 +63,13 @@ Learn the Command Line and Learn Git can be done in a day if I really wanted to.
 
 Most of these take *four hours or less* to do according to the descriptions. I might try to do them all in one week. **The first two are excellent overviews of using Python in a data science context, absolutely make use of them.**
 
+**Update:** Datacamp takes a freemium approach to their site, but it may not hurt to at least get a [one-month membership](https://www.datacamp.com/pricing) to use intensively prior to any data science immersive. I feel like you'll get the most out of the site if you already have some python experience under your belt from Codecademy or some other form of interactive practice. 
+
 &nbsp;
 
 #### C. Code Wars Challenges:
 
-Based on the advice of a Galvanize student turned instructor, I should aim to surpass several levels of [python challenges on this site](https://www.codewars.com). I don't pretend to know how necessary that will be, but it wouldn't hurt to try to reach that level of proficiency.
+Based on the advice of a Galvanize student turned instructor, I should aim to surpass several levels of [python challenges on this site](https://www.codewars.com) to reach "level 6 kata" rank or better. I don't pretend to know how necessary that will be, but it wouldn't hurt to maintain that level of proficiency.
 
 &nbsp;
 
@@ -75,7 +79,13 @@ The homepage for these can be found here: https://www.kaggle.com/learn/overview
 
 As of now, I'm not sure how useful the tutorials on that site will be given the fact that they appear to cover stuff I'll be learning elsewhere. But it won't hurt to see if there's anything I've missed. 
 
+**Bonus:** If Kaggle competitions seem interesting to you, I'm sure [Numerai](https://numer.ai/learn) will be at least as interesting - if not more fulfilling. [This interview with the founder](https://www.youtube.com/watch?v=yY-Sg7KhRhU) of the project is a good start to get context.
+
 &nbsp;
+
+#### E. Fast.ai:
+
+[Fast.ai](https://www.fast.ai/) is a well condensed course on deep learning that seeks to teach you as much as possible about that topic in a week. Not a bad idea to give this a spin prior to any full-time immersive course.
 
 ---
 
