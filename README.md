@@ -43,33 +43,15 @@ Learn the Command Line and Learn Git can be done in a day if I really wanted to.
 
 &nbsp;
 
-#### B. Datacamp Courses:
+#### B. Code Wars Challenges:
 
-1. [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-
-2. [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
-
-3. [Importing Data in Python Part 1](https://www.datacamp.com/courses/importing-data-in-python-part-1)
-
-4. [Importing Data in Python Part 2](https://www.datacamp.com/courses/importing-data-in-python-part-2)
-
-5. [Introduction to Relational Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
-
-6. [Interactice Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
-
-7. [Statistical Thinking in Python Part 1](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
-
-8. [Python Data Science Toolbox Part 1](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
-
-Most of these take *four hours or less* to do according to the descriptions. I might try to do them all in one week. **The first two are excellent overviews of using Python in a data science context, absolutely make use of them.**
-
-**Update:** Datacamp takes a freemium approach to their site, but it may not hurt to at least get a [one-month membership](https://www.datacamp.com/pricing) to use intensively prior to any data science immersive. I feel like you'll get the most out of the site if you already have some python experience under your belt from Codecademy or some other form of interactive practice. 
+Based on the advice of a Galvanize student turned instructor, I should aim to surpass several levels of [python challenges on this site](https://www.codewars.com) to reach "level 6 kata" rank or better. I don't pretend to know how necessary that will be, but it wouldn't hurt to maintain that level of proficiency.
 
 &nbsp;
 
-#### C. Code Wars Challenges:
+#### C. Fast.ai:
 
-Based on the advice of a Galvanize student turned instructor, I should aim to surpass several levels of [python challenges on this site](https://www.codewars.com) to reach "level 6 kata" rank or better. I don't pretend to know how necessary that will be, but it wouldn't hurt to maintain that level of proficiency.
+[Fast.ai](https://www.fast.ai/) is a well condensed course on deep learning that seeks to teach you as much as possible about that topic in a week. Not a bad idea to give this a spin prior to any full-time immersive course.
 
 &nbsp;
 
@@ -80,12 +62,6 @@ The homepage for these can be found here: https://www.kaggle.com/learn/overview
 As of now, I'm not sure how useful the tutorials on that site will be given the fact that they appear to cover stuff I'll be learning elsewhere. But it won't hurt to see if there's anything I've missed. 
 
 **Bonus:** If Kaggle competitions seem interesting to you, I'm sure [Numerai](https://numer.ai/learn) will be at least as interesting - if not more fulfilling. [This interview with the founder](https://www.youtube.com/watch?v=yY-Sg7KhRhU) of the project is a good start to get context.
-
-&nbsp;
-
-#### E. Fast.ai:
-
-[Fast.ai](https://www.fast.ai/) is a well condensed course on deep learning that seeks to teach you as much as possible about that topic in a week. Not a bad idea to give this a spin prior to any full-time immersive course.
 
 ---
 
