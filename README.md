@@ -3,13 +3,10 @@
 
 &nbsp;
 
-**Background:** As of the beginning of this year (2019) this has undergone some serious revisions to reflect the things that I have read (and found useful), as well as things that I'm tentatively planning on reading and trying out before January is over. Rather than focus on a syllabus that overlaps with the content of a 12-week program I was considering, I decided to make this more reflective of what was currently mentioned on Lambda School's **30-week** syllabus at the time I was doing prework.
-
-**Now that I know what syllabus sections tentatively correspond to what weeks of the course, I feel confident I can reorganize various sections of this markdown file to better reflect what *that* course covers.**
-
-More than any other program, Lambda School's curriculum is focused on actually placing people in *jobs* - largely because [their main tuition model](https://www.youtube.com/watch?v=IGh5-g4KR1Q) only allows them to collect revenue when students have become gainfully employed.
-
+**Background:** 
 ---
+
+I originally made this with prepping for coding bootcamps in mind, but this could be used by anyone who wants to self-study or prepare for data science courses.
 
 &nbsp;
 
