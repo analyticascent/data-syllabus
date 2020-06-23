@@ -6,13 +6,13 @@
 **Background:** 
 ---
 
-I originally made this with prepping for coding bootcamps in mind, but this could be used by anyone who wants to self-study or prepare for data science courses.
+I originally made this with prepping for coding bootcamps in mind, but this could be used by anyone who wants to self-study or prepare for data science courses in general (degree or bootcamp).
 
 &nbsp;
 
 ## 1. Online Prep
 
-These are sites with courses I have either already used or plan to use. I chose Codecademy and Datacamp because they take a more modular approach to how you learn a given topic - that is, you can stick to something specific rather than having to take an entire course track for the tidbits you actually need.
+These are sites with courses I have either already used or plan to use. I chose them because they take a more modular approach to how you learn a given topic - that is, you can stick to something specific rather than having to take an entire course track for the tidbits you actually need.
 
 &nbsp;
 
@@ -34,7 +34,7 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 8. [Learn Javascript](https://www.codecademy.com/learn/learn-javascript)
 
-Learn the Command Line and Learn Git can be done in a day if I really wanted to. I might just repeat those from time to time. All the others on the list might take days to do, but Codecademy sometimes doesn't list hourly estimates. **At a bare minimum, you should do the first three (command line, git, SQL) since those cover things you can't as easily find elsewhere.** Basic Python for data science is covered well by Datacamp.
+Learn the Command Line and Learn Git can be done in a day if I really wanted to, and I might just repeat those from time to time. All the others on the list might take days to do, but Codecademy sometimes doesn't list hourly estimates. **At a bare minimum, you should do the first three (command line, git, SQL) since those cover things you can't as easily find elsewhere.**
 
 **Update:** In the Pro version of Codecademy, you recieve access to [topic-specific tracks](https://www.codecademy.com/catalog/subject/all) that cover content in a way that focuses on Code Foundations, Data Science, Computer Science, and Web Development. I would suggest paying for a one-month pro membership and doing the first three of those tracks, possibly even the Web Development track as well if you want to understand what potential coworkers have to work on. 
 
@@ -64,13 +64,13 @@ As of now, I'm not sure how useful the tutorials on that site will be given the 
 
 ## 2. Reading and Video Course List
 
-In a matter of months, I should be prepared for the weekly content that someone would encounter in [Galvanize's 12-week Immersive](http://www.galvanize.com/courses/data-science/) course. I will be reading most of these titles through [Mapt.io](https://mapt.io/) since they tend to be published by Packt.
+I will be reading most of these titles through Packt Publishing's [Online Library](https://subscribe.packtpub.com/), since they tend to be published by Packt. Others who want access to a wider variety of publishers may want to look into [Safari Online](https://www.oreilly.com/online-learning/individuals.html) by O'Reilly Media. It costs multiple times more than using Packt's service alone, but that can be worth it depending on the variety of content you're looking for.
 
 &nbsp;
 
 #### A. Pre-Course Reading List
 
-These are by no means the only books on my radar, there are plenty more for later but these are the ones I intend to have done before the course starts. Given that a project of mine involves the use of natural language processing to infer whether news articles or academic studies contain certain pieces of information or not, this list reflects that focus (in addition to touching on things Lambda covers).
+These are by no means the only books on my radar. There are plenty more for later but these are the ones I intend to read along with my formal schooling. Given that a project of mine involves the use of natural language processing to infer whether news articles or academic studies contain certain pieces of information or not, this list reflects that focus.
 
   0. **Learn Python the Hard Way** - **250**, 52
 
