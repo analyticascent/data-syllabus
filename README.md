@@ -32,6 +32,7 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 7. [Javascript](https://www.codecademy.com/learn/javascript)
 
+&nbsp;
 
 Learn the Command Line and Learn Git can be done in a day if I really wanted to, and I might just repeat those from time to time. All the others on the list might take days to do, but Codecademy sometimes doesn't list hourly estimates. **At a bare minimum, you should do the first three (command line, git, SQL) since those cover things you can't as easily find elsewhere.**
 
@@ -46,6 +47,7 @@ Learn the Command Line and Learn Git can be done in a day if I really wanted to,
 
 4. [Web Development](https://www.codecademy.com/learn/paths/web-development)
 
+&nbsp;
 
 I would suggest paying for a one-month pro membership and doing the first three of those tracks, possibly even the Web Development track as well if you want to understand what potential coworkers have to work on.
 
@@ -97,19 +99,19 @@ These are by no means the only books on my radar. There are plenty more for late
  
   5. **SQL Practice Problems** - **140**, 57
  
-  6. **Getting Started with Tensorflow** - **165**, 6
+  6. **Statistics Done Wrong** - **130**, 12
  
-  7. **Statistics Done Wrong** - **130**, 12
+  7. **Python Web Scraping Cookbook** - **330**, 11
  
-  8. **Python Web Scraping Cookbook** - **330**, 11
+  8. **Hands-On Automated Machine Learning** - **250**, 8
  
-  9. **Hands-On Automated Machine Learning** - **250**, 8
+ 9. **Hands-On Data Science and Python Machine Learning** - **395**, 10
  
- 10. **Hands-On Data Science and Python Machine Learning** - **395**, 10
+ 10. **Hands-On Data Visualization with Bokeh** - **150**, 8
  
- 11. **Hands-On Data Visualization with Bokeh** - **150**, 8
+ 11. **Natural Language Processing and Computational Linguistics** - **280**, 15
  
- 12. **Natural Language Processing and Computational Linguistics** - **280**, 15
+ 12. **Interactive Data Visualization with Python** - **335**, 7
  
 &nbsp;
 
