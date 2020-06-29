@@ -32,11 +32,24 @@ These are sites with courses I have either already used or plan to use. I chose 
 
 7. [Javascript](https://www.codecademy.com/learn/javascript)
 
-8. [Learn Javascript](https://www.codecademy.com/learn/learn-javascript)
 
 Learn the Command Line and Learn Git can be done in a day if I really wanted to, and I might just repeat those from time to time. All the others on the list might take days to do, but Codecademy sometimes doesn't list hourly estimates. **At a bare minimum, you should do the first three (command line, git, SQL) since those cover things you can't as easily find elsewhere.**
 
-**Update:** In the Pro version of Codecademy, you recieve access to [topic-specific tracks](https://www.codecademy.com/catalog/subject/all) that cover content in a way that focuses on Code Foundations, Data Science, Computer Science, and Web Development. I would suggest paying for a one-month pro membership and doing the first three of those tracks, possibly even the Web Development track as well if you want to understand what potential coworkers have to work on. 
+**Update:** In the Pro version of Codecademy, you recieve access to [topic-specific tracks](https://www.codecademy.com/catalog/subject/all) that cover content in a way that focuses on the following:
+
+
+1. [Code Foundations](https://www.codecademy.com/learn/paths/code-foundations)
+
+2. [Computer Science](https://www.codecademy.com/learn/paths/computer-science)
+
+3. [Data Science](https://www.codecademy.com/learn/paths/data-science)
+
+4. [Web Development](https://www.codecademy.com/learn/paths/web-development)
+
+
+I would suggest paying for a one-month pro membership and doing the first three of those tracks, possibly even the Web Development track as well if you want to understand what potential coworkers have to work on.
+
+There's also "skill paths" that can be found in their full course list as well. Those seem geared towards mastering specific niches.
 
 &nbsp;
 
