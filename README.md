@@ -3,9 +3,6 @@
 
 &nbsp;
 
-**Background:** 
----
-
 I originally made this with prepping for coding bootcamps in mind, but this could be used by anyone who wants to self-study or prepare for data science courses in general (degree or bootcamp).
 
 &nbsp;
