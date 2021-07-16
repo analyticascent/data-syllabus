@@ -87,9 +87,9 @@ I will be reading most of these titles through Packt Publishing's [Online Librar
 
 These are by no means the only books on my radar. There are plenty more for later but these are the ones I intend to read along with my formal schooling. Given that a project of mine involves the use of natural language processing to infer whether news articles or academic studies contain certain pieces of information or not, this list reflects that focus.
 
-  1. **Principles of Data Science** - **365**, 13
- 
-  2. **Data Science from Scratch** - **305**,	25
+  1. **Data Science from Scratch** - **305**,	25
+
+  2. **Principles of Data Science** - **365**, 13 
  
   3. **Humongous Book of Statistics Problems** - **525**, 18
  
