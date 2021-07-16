@@ -85,7 +85,7 @@ I will be reading most of these titles through Packt Publishing's [Online Librar
 
 #### A. Pre-Course Reading List
 
-These are by no means the only books on my radar. There are plenty more for later but these are the ones I intend to read along with my formal schooling. Given that a project of mine involves the use of natural language processing to infer whether news articles or academic studies contain certain pieces of information or not, this list reflects that focus.
+These are by no means the only books on my radar. *"Statistics Essentials for Dummies"* is a good review book for instance. Given that most of my projects involve natural language processing to infer whether news articles or academic studies contain certain pieces of information or not, this list reflects that focus.
 
   1. **Data Science from Scratch** - **305**,	25
 
@@ -105,17 +105,17 @@ These are by no means the only books on my radar. There are plenty more for late
 
   9. **Dive Into Algorithms** **215**, 11
  
-  9. **Hands-On Automated Machine Learning** - **250**, 8
+  10. **Hands-On Automated Machine Learning** - **250**, 8
  
- 10. **Hands-On Data Science and Python Machine Learning** - **395**, 10
+ 11. **Hands-On Data Science and Python Machine Learning** - **395**, 10
  
- 11. **Hands-On Data Visualization with Bokeh** - **150**, 8
+ 12. **Hands-On Data Visualization with Bokeh** - **150**, 8
  
- 12. **Natural Language Processing and Computational Linguistics** - **280**, 15
+ 13. **Natural Language Processing and Computational Linguistics** - **280**, 15
  
- 13. **Interactive Data Visualization with Python** - **335**, 7
+ 14. **Interactive Data Visualization with Python** - **335**, 7
 
- 14. **Automated Machine Learning** - **300**, 10
+ 15. **Automated Machine Learning** - **300**, 10
  
 &nbsp;
 
