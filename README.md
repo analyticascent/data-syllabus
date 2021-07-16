@@ -87,8 +87,6 @@ I will be reading most of these titles through Packt Publishing's [Online Librar
 
 These are by no means the only books on my radar. There are plenty more for later but these are the ones I intend to read along with my formal schooling. Given that a project of mine involves the use of natural language processing to infer whether news articles or academic studies contain certain pieces of information or not, this list reflects that focus.
 
-  0. **Learn Python the Hard Way** - **250**, 52
-
   1. **Principles of Data Science** - **365**, 13
  
   2. **Data Science from Scratch** - **305**,	25
@@ -98,20 +96,26 @@ These are by no means the only books on my radar. There are plenty more for late
   4. **Python Data Science Essentials 3rd Ed** - **450**, 8
  
   5. **SQL Practice Problems** - **140**, 57
- 
-  6. **Statistics Done Wrong** - **130**, 12
+
+  6. **Statistics in a Nutshell** - **425**, 20
  
   7. **Python Web Scraping Cookbook** - **330**, 11
+
+  8. **Statistics Done Wrong** - **130**, 12
+
+  9. **Dive Into Algorithms** **215**, 11
  
-  8. **Hands-On Automated Machine Learning** - **250**, 8
+  9. **Hands-On Automated Machine Learning** - **250**, 8
  
- 9. **Hands-On Data Science and Python Machine Learning** - **395**, 10
+ 10. **Hands-On Data Science and Python Machine Learning** - **395**, 10
  
- 10. **Hands-On Data Visualization with Bokeh** - **150**, 8
+ 11. **Hands-On Data Visualization with Bokeh** - **150**, 8
  
- 11. **Natural Language Processing and Computational Linguistics** - **280**, 15
+ 12. **Natural Language Processing and Computational Linguistics** - **280**, 15
  
- 12. **Interactive Data Visualization with Python** - **335**, 7
+ 13. **Interactive Data Visualization with Python** - **335**, 7
+
+ 14. **Automated Machine Learning** - **300**, 10
  
 &nbsp;
 
